@@ -20,6 +20,8 @@ extern class Event {
 	static var ADDED_TO_STAGE : String;
 	static var CANCEL : String;
 	static var CHANGE : String;
+	static var CHANNEL_MESSAGE : String;
+	static var CHANNEL_STATE : String;
 	static var CLEAR : String;
 	static var CLOSE : String;
 	static var CLOSING : String;
@@ -67,4 +69,6 @@ extern class Event {
 	static var UNLOAD : String;
 	static var USER_IDLE : String;
 	static var USER_PRESENT : String;
+	static var VIDEO_FRAME : String;
+	static var WORKER_STATE : String;
 }
