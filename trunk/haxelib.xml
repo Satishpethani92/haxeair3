@@ -1,7 +1,7 @@
 <project name="air3" url="http://code.google.com/p/haxeair3/" license="BSD">
 	<user name="jan_flanders"/>
 	<description>Externs for Adobe AIR3</description>
-	<version name="3.3">
-		haxe 2.10 compatible version of air 3.3 lib
+	<version name="3.4">
+		haxe 2.10 compatible version of air 3.4 lib
 	</version>
 </project>
