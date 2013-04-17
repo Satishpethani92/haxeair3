@@ -2,6 +2,6 @@
 	<user name="jan_flanders"/>
 	<description>Externs for Adobe AIR 3.2</description>
 	<version name="3.2">
-		haxe 2.10 compatible version of air 3.2 lib
+		haxe3 compatible version of air 3.2 lib
 	</version>
 </project>
