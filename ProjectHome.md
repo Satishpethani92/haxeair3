@@ -1,0 +1,1 @@
+Externs for Adobe AIR3
